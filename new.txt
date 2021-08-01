@@ -3,5 +3,5 @@ this is second line
 this is change in remote repository
 this is anotherlocal change
 this is another change in remote repo
-this is change in master
+this is change from feature2
 
